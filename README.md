@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @sugarypumpkin822
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me call 253 268 6973 or giggatron.theraper@gmail.com
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: " if thare is infinite genders then C is a fucking gender" "people are retarded thare is only a boy and a girl " "cancel me bitch ass mother fucker"
+
+<!---
+sugarypumpkin822/sugarypumpkin822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
