@@ -8,10 +8,10 @@ My name is @sugarypumpkin822, and I’m a self-taught programmer, tech explorer,
 
 I might be at the beginning now, but I'm serious about growing, eager to learn, and 100% committed to making my dream a reality.
 
-💡 What Drives Me?
+# 💡 What Drives Me?
 I’ve always been fascinated by how things work under the hood. Whether it’s games, websites, apps, or full-on systems — I want to understand it, build it, and maybe even improve it.
 
-What motivates me?
+# What motivates me?
 
 🔍 Curiosity — I love taking things apart and figuring out what makes them tick
 
@@ -21,7 +21,7 @@ What motivates me?
 
 🧱 Persistence — I’m not giving up, no matter how hard it gets
 
-🌱 My Learning Journey: 10+ Languages and Counting
+# 🌱 My Learning Journey: 10+ Languages and Counting
 Right now, I’m actively learning a broad range of coding languages and technologies so I can be versatile and future-proof.
 
 💻 Programming Languages I’m Learning
@@ -37,7 +37,7 @@ SQL (soon)	To manage data and databases
 Java (soon)	For Android development and backend work
 …and many more!	I’m always open to new languages and tools
 
-🧪 Tools & Concepts I’m Exploring
+# 🧪 Tools & Concepts I’m Exploring
 VS Code, GitHub, CLI
 
 Game engines like Unity
@@ -48,10 +48,10 @@ How operating systems and compilers work
 
 AI-assisted coding tools (like ChatGPT!)
 
-🎮 The Big Dream: GamesFlow Emulator
+# 🎮 The Big Dream: GamesFlow Emulator
 One of my biggest ambitions is to build my own emulator from scratch — a multi-platform powerhouse I call GamesFlow.
 
-🎯 GamesFlow Emulator – My Vision
+# 🎯 GamesFlow Emulator – My Vision
 I want to build an emulator that can:
 
 Support multiple gaming systems, old and new
@@ -68,21 +68,10 @@ This will be a long-term project, and I aim to complete it within 5 years, once 
 
 Want to join forces on this someday? Hit me up — I’m building this one step at a time.
 
-🤔 Question I’m Asking: Is Using AI Cheating?
+# 🤔 Question I’m Asking: Is Using AI Cheating?
 I sometimes use AI tools to:
 
 Help generate or analyze file structures
-
-Debug tricky parts of my code
-
-Learn syntax and concepts
-
-Accelerate my learning process
-
-But is that cheating?
-
-💬 My answer: No. Using AI isn’t cheating — it’s learning smarter.
-It’s like asking a super-intelligent teacher for help, and there’s nothing wrong with that — as long as you’re learning and not just copying blindly.
 
 Still, I’d love to hear your thoughts on this. Let’s start a conversation!
 
@@ -99,15 +88,15 @@ I’m always open to:
 
 📣 General support or encouragement!
 
-📞 Phone: 253-268-6973
-📧 Email: giggatron.theraper@gmail.com
+# 📞 Phone: 253-268-6973
+# 📧 Email: giggatron.theraper@gmail.com
 If you’re a dev, a teacher, or just someone who loves tech — please reach out. Even a simple tip could change my entire learning path. I want to grow into a real professional who makes a difference in the tech world!
 
-😄 Pronouns
-He/Him
+# 😄 Pronouns
+  He/Him
 
-📈 Goals for 2025 and Beyond
-🎯 Short-Term Goals:
+# 📈 Goals for 2025 and Beyond
+# 🎯 Short-Term Goals:
 
 Finish learning fundamentals of C++, JS, and C#
 
@@ -129,7 +118,7 @@ Eventually become a team lead, software architect, or game dev pro
 
 Inspire others to start their own coding journeys
 
-✨ Why This Repo Matters
+# ✨ Why This Repo Matters
 This README.md is more than just a profile — it’s my mission statement.
 It’s a place to:
 
@@ -145,7 +134,7 @@ Document my growth 📘
 
 If you’ve made it this far — thank you. Let’s build something awesome together!
 
-🔧 My GitHub in the Future:
+# 🔧 My GitHub in the Future:
 Expect this space to grow with:
 
 Projects
