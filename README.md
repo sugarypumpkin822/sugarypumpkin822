@@ -1,7 +1,7 @@
-## JUST KNOW THAT I WILL NOT BE MAKEING REPOS UNTELL I LEARN HOW TO CODE MORE AND I WILL JUST MAKE TEMPLATES FOR ME WHEN I LEARN THE CODE TYPES IM ALSO MAKING A SPOTIFY REMAKE SOME PROGECTS WILL JUST BE MADE WITH AI AND THEY WILL SAY IN THE TITLE
+
 # 👋 Welcome to My GitHub Universe!
 
-- I’m @sugarypumpkin822 — A Future Pro Developer, Emulator Architect, and Passionate Code Explorer
+- I’m @sugarypumpkin822 — A Future Developer, Emulator Architect, and Passionate Code Explorer
 🧠 Who Am I?
 Hey! I’m glad you’re here.
 
@@ -89,7 +89,6 @@ I’m always open to:
 
 📣 General support or encouragement!
 
-# 📞 Phone: 253-268-6973
 # 📧 Email: giggatron.theraper@gmail.com
 If you’re a dev, a teacher, or just someone who loves tech — please reach out. Even a simple tip could change my entire learning path. I want to grow into a real professional who makes a difference in the tech world!
 
