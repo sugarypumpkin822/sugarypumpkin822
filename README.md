@@ -69,13 +69,6 @@ This will be a long-term project, and I aim to complete it within 5 years, once 
 
 Want to join forces on this someday? Hit me up — I’m building this one step at a time.
 
-# 🤔 Question I’m Asking: Is Using AI Cheating?
-I sometimes use AI tools to:
-
-Help generate or analyze file structures
-
-Still, I’d love to hear your thoughts on this. Let’s start a conversation!
-
 📬 Contact Me — Let’s Connect!
 I’m always open to:
 
@@ -90,7 +83,7 @@ I’m always open to:
 📣 General support or encouragement!
 
 # 📧 Email: giggatron.theraper@gmail.com
-If you’re a dev, a teacher, or just someone who loves tech — please reach out. Even a simple tip could change my entire learning path. I want to grow into a real professional who makes a difference in the tech world!
+If you’re a dev for anything, a teacher, or just someone who loves tech — please reach out. Even a simple tip could change my entire learning path. I want to grow into a real professional who makes a difference in the tech world!
 
 # 😄 Pronouns
   He/Him
