@@ -1,5 +1,5 @@
 
-# 👋 Welcome to My GitHub Universe!
+# 👋 Welcome to My GitHub!
 
 - I’m @sugarypumpkin822 — A Future Developer, Emulator Architect, and Passionate Code Explorer
 🧠 Who Am I?
@@ -27,9 +27,10 @@ Right now, I’m actively learning a broad range of coding languages and technol
 
 💻 Programming Languages I’m Learning
 Language	Why I’m Learning It
+i want to make games that dont use any other Game engine i want to make a game engine for every game i make that is advanced unlike any other i want to Build it in a mix of C# C++ AND c
 C++	For game dev, performance, and system-level programming
 C	To understand how computers really work
-C#	For game development with Unity and Windows apps
+C#	For game development and Windows apps
 HTML & CSS	To build the foundation of websites
 JavaScript	For frontend interactivity and logic
 TypeScript	For modern, scalable web apps
