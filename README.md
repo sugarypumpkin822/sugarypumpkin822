@@ -83,7 +83,7 @@ I’m always open to:
 
 📣 General support or encouragement!
 
-# 📧 Email: giggatron.theraper@gmail.com
+# 📧 Email: ryan4567dfr@outlook.com
 If you’re a dev for anything, a teacher, or just someone who loves tech — please reach out. Even a simple tip could change my entire learning path. I want to grow into a real professional who makes a difference in the tech world!
 
 # 😄 Pronouns
